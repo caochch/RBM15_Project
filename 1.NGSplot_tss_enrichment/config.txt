@@ -1,0 +1,2 @@
+8.WDR5_BGCNC_rep1.flt.clean.rmDup.sort.bam      ./input.WDR5_BGCNC.targetPromoter.genes        WDR5_NC
+9.WDR5_BGCKO_rep1.flt.clean.rmDup.sort.bam      ./input.WDR5_BGCNC.targetPromoter.genes        WDR5_KO

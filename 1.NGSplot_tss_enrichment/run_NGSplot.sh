@@ -1,0 +1,1 @@
+/home/caochch/software/ngsplot/bin/ngs.plot.r -G hg38 -R tss -C config.txt -O WDR5.5K -L 5000 -RB 0.01 -RR 50 -SC 0,8 -CD 0.5 -GO max
